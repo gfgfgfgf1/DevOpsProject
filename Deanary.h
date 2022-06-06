@@ -1,6 +1,6 @@
 // Copyright 2021 Bulatov D.
-#ifndef INCLUDE_DEANARY_H_
-#define INCLUDE_DEANARY_H_
+#ifndef DEANARY_H_
+#define IDEANARY_H_
 
 #include <iostream>
 #include <string>
@@ -31,4 +31,4 @@ class Deanary {
   void saveStuff();
   void printInfo();
 };
-#endif  // INCLUDE_DEANARY_H_
+#endif  // DEANARY_H_
