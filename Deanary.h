@@ -1,6 +1,6 @@
 // Copyright 2021 Bulatov D.
 #ifndef DEANARY_H_
-#define IDEANARY_H_
+#define DEANARY_H_
 
 #include <iostream>
 #include <string>
