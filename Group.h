@@ -1,6 +1,6 @@
 // Copyright 2021 Bulatov D.
-#ifndef INCLUDE_GROUP_H_
-#define INCLUDE_GROUP_H_
+#ifndef GROUP_H_
+#define GROUP_H_
 
 #include <string>
 #include <vector>
@@ -27,4 +27,4 @@ class Group {
   void removeStudent(int id);
   std::vector<Student> getStudents();
 };
-#endif  // INCLUDE_GROUP_H_
+#endif  // GROUP_H_

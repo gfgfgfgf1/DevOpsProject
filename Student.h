@@ -1,6 +1,6 @@
 // Copyright 2021 Bulatov D.
-#ifndef INCLUDE_STUDENT_H_
-#define INCLUDE_STUDENT_H_
+#ifndef STUDENT_H_
+#define STUDENT_H_
 
 #include <string>
 #include <vector>
