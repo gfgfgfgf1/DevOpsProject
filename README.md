@@ -1,9 +1,4 @@
 # devopsproject
-![GitHub pull requests](https://img.shields.io/github/issues-pr/HSE-CS/tp-lab-5)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/HSE-CS/tp-lab-5)
-
-![Relative date](https://img.shields.io/date/1612742400)
-
 ### Разработать класс **Student** для хранения информации о студенте.
 
 Примерный перечень полей:
