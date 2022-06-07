@@ -58,7 +58,7 @@
 
 ## UML диаграмма классов
 
-![](img/uml.png)
+![изображение](https://user-images.githubusercontent.com/71260710/172301760-5063d735-3e1d-4de1-a924-0f030bcaa862.png)
 
 
 ## Структура проекта
