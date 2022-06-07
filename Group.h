@@ -1,5 +1,5 @@
 // Copyright 2021 Bulatov D.
-#ifndef GROUP_H_1
+#ifndef GROUP_H_
 #define GROUP_H_
 
 #include <string>

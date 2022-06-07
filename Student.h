@@ -25,4 +25,4 @@ class Student {
   void removeGroup();
   void setMarks(std::vector<int> marks);
 };
-#endif  // INCLUDE_STUDENT_H_
+#endif  // STUDENT_H_
